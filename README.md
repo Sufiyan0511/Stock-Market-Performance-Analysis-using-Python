@@ -9,8 +9,6 @@ The goal of this project is to analyze recent stock performance trends and visua
 ## Libraries Used
 
 - **pandas**: For data manipulation and analysis.
-- **matplotlib.pyplot**: For static plotting.
-- **seaborn**: For statistical data visualization.
 - **plotly.express**: For interactive plotting.
 - **yfinance**: For downloading stock market data.
 - **datetime**: For date and time handling.
